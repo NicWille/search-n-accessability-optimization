@@ -1,5 +1,3 @@
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
 # Horiseon
 
 ## Social Media Marketing Solutions Website Mock-up
