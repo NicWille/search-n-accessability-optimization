@@ -1,2 +1,3 @@
-![](01-html-css-git-homework-demo.png)
+#### a picture
+![website screenshot](screenshot.png)
 
